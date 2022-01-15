@@ -5,9 +5,9 @@ Basic wordle cracker console application, just pull the project and run on conso
 
 2- Enter your guess (example: vocal)
 
-3- Enter outcome (example: THFTT)
-  (T for correct position and letter)
-  (H for correct letter but wrong position)
+3- Enter outcome (example: THFTT)\
+  (T for correct position and letter)\
+  (H for correct letter but wrong position)\
   (F wrong letter)
  
 4- Repeat 2 & 3
