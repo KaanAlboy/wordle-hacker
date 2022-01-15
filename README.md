@@ -6,9 +6,9 @@ Basic wordle cracker console application, just pull the project and run on conso
 2- Enter your guess (example: vocal)
 
 3- Enter outcome (example: THFTT)\
-  (T for correct position and letter)\
-  (H for correct letter but wrong position)\
-  (F wrong letter)
+  (T for correct position and letter - green)\
+  (H for correct letter but wrong position - yellow)\
+  (F wrong letter - gray)
  
 4- Repeat 2 & 3
   
